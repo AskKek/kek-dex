@@ -51,7 +51,7 @@ export default function PortfolioLayout(props: { children: ReactNode }) {
         icon: null,
       },
       {
-        name: "TradingView Webhooks",
+        name: "Webhooks",
         href: PathEnum.Webhooks,
         icon: null,
       },

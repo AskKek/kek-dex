@@ -24,7 +24,7 @@ export const PageTitleMap = {
   [PathEnum.Portfolio]: "Portfolio",
   [PathEnum.FeeTier]: "Fee tier",
   [PathEnum.ApiKey]: "API keys",
-  [PathEnum.Webhooks]: "TradingView Webhooks",
+  [PathEnum.Webhooks]: "Webhooks",
   [PathEnum.Orders]: "Orders",
   [PathEnum.Assets]: "Assets",
   [PathEnum.Positions]: "Positions",

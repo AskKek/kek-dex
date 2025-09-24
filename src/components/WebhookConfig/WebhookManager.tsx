@@ -117,7 +117,7 @@ export function WebhookManager() {
       <div className="flex justify-between items-center mb-6">
         <div>
           <Text size="lg" weight="bold" className="text-white">
-            TradingView Webhooks
+            Webhooks
           </Text>
           <Text size="sm" className="text-gray-400 mt-1">
             Connect your TradingView alerts to execute trades automatically
